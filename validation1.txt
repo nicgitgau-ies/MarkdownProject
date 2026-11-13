@@ -1,0 +1,91 @@
+commit f0e892ed4950385af2045d92016387efee51fc9a
+Author: nicgitgau-ies <nicgitgau@iespoblenou.org>
+Date:   Fri Nov 13 13:56:09 2026 +0100
+
+    Update introduction of README.md
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 98388d5a035b9805360b1bf6557582fb07a06d4c
+Author: nicgitgau-ies <nicgitgau@iespoblenou.org>
+Date:   Fri Nov 13 13:47:54 2026 +0100
+
+    Add MIT License (edit).
+
+ LICENSE.md       |   7 +++++++
+ README.md        |   8 +-------
+ images/logo.webp | Bin 0 -> 1402 bytes
+ 3 files changed, 8 insertions(+), 7 deletions(-)
+
+commit 46c374203f5e989645de5253e1ffa8ef3f90e260
+Author: nicgitgau-ies <nicgitgau@iespoblenou.org>
+Date:   Fri Nov 13 13:43:36 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 25 +++++++++++++++++++------
+ 1 file changed, 19 insertions(+), 6 deletions(-)
+
+commit 9d591cda172c43c2c749f181e9b4bbb62747ddb9
+Author: nicgitgau-ies <nicgitgau@iespoblenou.org>
+Date:   Fri Nov 13 13:37:01 2026 +0100
+
+    Add feature list table to README
+
+ README.md | 9 +++++----
+ 1 file changed, 5 insertions(+), 4 deletions(-)
+
+commit e78987b10f3df22569a341ee0a33497adb1bc6da
+Author: nicgitgau-ies <nicgitgau@iespoblenou.org>
+Date:   Fri Nov 13 13:29:20 2026 +0100
+
+    Add project logo to README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 255e91c2383abcc2208d8e5e62daf523ecaa1aa7
+Author: nicgitgau-ies <nicgitgau@iespoblenou.org>
+Date:   Fri Nov 13 13:26:02 2026 +0100
+
+    Add sections to README
+
+ README.md | 40 +++++++++++++++++++++++++++++++++++++---
+ 1 file changed, 37 insertions(+), 3 deletions(-)
+
+commit 286e7f982dce49a9cdd8c1d2c26cd8d104926dad
+Author: nicgitgau-ies <nicgitgau@iespoblenou.org>
+Date:   Fri Nov 13 13:20:27 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 204d411d66d72a8c5d501ed63c82e01ad0b0a47f
+Author: nicgitgau-ies <nicgitgau@iespoblenou.org>
+Date:   Fri Nov 13 13:18:19 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit 16e17b8fecb3a01428bf0e41d9ea5b4f35be3065
+Author: nicgitgau-ies <nicgitgau@iespoblenou.org>
+Date:   Fri Nov 13 13:15:50 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit e136fd756c4115e86834448bee71308acd65d1a1
+Author: nicgitgau-ies <nicgitgau@iespoblenou.org>
+Date:   Fri Nov 13 13:13:48 2026 +0100
+
+    Initial commit with gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
