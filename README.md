@@ -10,6 +10,7 @@
 # Introduction
 This is a brief paragraph about the project.
 Check out the [Git Documentation](https://git-scm.com/docs).
+Lorem ipsum dolor sit amet.
 ![Project Logo](images/logo.webp)
 
 # Features
