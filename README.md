@@ -10,6 +10,7 @@
 # Introduction
 This is a brief paragraph about the project.
 Check out the [Git Documentation](https://git-scm.com/docs).
+![Project Logo](images/logo.webp)
 
 # Features
 1. This feature
