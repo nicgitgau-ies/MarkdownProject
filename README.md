@@ -13,10 +13,11 @@ Check out the [Git Documentation](https://git-scm.com/docs).
 ![Project Logo](images/logo.webp)
 
 # Features
-1. This feature
-2. This other feature
-3. This amazing feature
-4. Something something
+| Feature | Description | Status |
+| ------- | ----------- | ------ |
+| Performance | Uses <1% CPU on idle | Completed |
+| Stability | Follows the concept of atomicity | In progress |
+| Multi-account | Allows the user to handle multiple accounts at once | Completed |
 
 # Installation
 On Windows:
