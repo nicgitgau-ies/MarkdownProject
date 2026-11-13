@@ -1,6 +1,7 @@
 #  Markdown and Git Homework
 
-This is a brief paragraph about the project
+This is a brief paragraph about the project.
+Check out the [Git Documentation](https://git-scm.com/docs).
 
 ## Table of Contents
 1. [Introduction](#Introduction)
